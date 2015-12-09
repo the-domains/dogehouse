@@ -1,0 +1,28 @@
+name: dogehouse
+favicon: null
+layout_spectrum: 0.18365354207344353
+typography_spectrum: 0.793159798020497
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3150594416074455
+  lightness: 0.09723515273071826
+  saturation: 0.7534452700056136
+  rhythmicContrast: 0.5124774153809994
+purpose: []
